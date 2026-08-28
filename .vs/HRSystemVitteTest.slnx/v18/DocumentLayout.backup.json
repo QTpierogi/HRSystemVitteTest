@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\HRSystemVitteTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F507E884-05DD-F4ED-4568-EC363A6EAA21}|HRSystem.Application\\HRSystem.Application.csproj|d:\\repos\\hrsystemvittetest\\hrsystem.application\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F507E884-05DD-F4ED-4568-EC363A6EAA21}|HRSystem.Application\\HRSystem.Application.csproj|solutionrelative:hrsystem.application\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAA0057-84C0-E51F-EBD4-68D82CA71AAE}|HRSystem.Api\\HRSystem.Api.csproj|d:\\repos\\hrsystemvittetest\\hrsystem.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAA0057-84C0-E51F-EBD4-68D82CA71AAE}|HRSystem.Api\\HRSystem.Api.csproj|solutionrelative:hrsystem.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAA0057-84C0-E51F-EBD4-68D82CA71AAE}|HRSystem.Api\\HRSystem.Api.csproj|d:\\repos\\hrsystemvittetest\\hrsystem.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAA0057-84C0-E51F-EBD4-68D82CA71AAE}|HRSystem.Api\\HRSystem.Api.csproj|solutionrelative:hrsystem.api\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\repos\\HRSystemVitteTest\\HRSystem.Application\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "HRSystem.Application\\Services\\DepartmentService.cs",
+              "ToolTip": "D:\\repos\\HRSystemVitteTest\\HRSystem.Application\\Services\\DepartmentService.cs*",
+              "RelativeToolTip": "HRSystem.Application\\Services\\DepartmentService.cs*",
+              "ViewState": "AgIAADsBAAAAAAAAAAAkwEgBAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T16:40:29.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\repos\\HRSystemVitteTest\\HRSystem.Api\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "HRSystem.Api\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\repos\\HRSystemVitteTest\\HRSystem.Api\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "HRSystem.Api\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T16:33:37.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\repos\\HRSystemVitteTest\\HRSystem.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "HRSystem.Api\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\repos\\HRSystemVitteTest\\HRSystem.Api\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "HRSystem.Api\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T15:04:35.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
